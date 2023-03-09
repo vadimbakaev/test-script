@@ -1,3 +1,3 @@
 # test-script
 
-add
+today is a good day
